@@ -1,0 +1,7 @@
+1. Non Aktifkan Firewall Windows
+2. Non Aktifkan Real Time Protection ( Virus & threat Protection Setting )
+3. Klik Kanan File MAS_1.3_AIO_CRC32_6F6382D8.cmd, Pilih Run Administrator
+4. Pilih Nomer 2, Lalu Enter
+5. Check Kembali Status active Windows di C:\Users\Desktop>slmgr /xpr  ( Lalu enter )
+6. akan muncul Informasi status active Windows.
+7. Selesai
